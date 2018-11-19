@@ -1,4 +1,4 @@
-# pytorch_scholarship_challenge
+# PyTorch Scholarship Challenge
 Codes from the PyTorch Scholarship Challenge, from Facebook and Udacity
 
 ## Lessons
